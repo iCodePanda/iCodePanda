@@ -34,6 +34,6 @@ I'm Daniel, a Computer Science student at the University of Waterloo and Softwar
 To learn more about my personal projects, visit my [Devpost](https://devpost.com/iCodePanda).
 
 ### **GitHub Stats** 📊  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iCodePanda&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iCodePanda&layout=compact&theme=radical&hide_border=true)
 
