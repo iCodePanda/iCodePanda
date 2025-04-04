@@ -18,6 +18,9 @@ I'm Daniel, a Computer Science student at the University of Waterloo and Softwar
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### Contact Me 🤝
 <a href="https://www.linkedin.com/in/danlu03/" target="_blank">
@@ -29,3 +32,8 @@ I'm Daniel, a Computer Science student at the University of Waterloo and Softwar
 
 ### My Projects 🔥
 To learn more about my personal projects, visit my [Devpost](https://devpost.com/iCodePanda).
+
+### **GitHub Stats** 📊  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+
