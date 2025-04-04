@@ -1,4 +1,4 @@
-I'm Daniel, a Computer Science student at the University of Waterloo and Software Engineer Intern at PointClickCare. For me, engineering is all about building and fixing. The problem I'm currently invested in is how large organizations can better align product, design, and engineering teams.
+I'm Daniel, a Computer Science student at the University of Waterloo and Software Engineer Intern at PointClickCare.
 
 ### Previous Internships 🚀
 * **Software Engineer Intern @ PointClickCare**:
