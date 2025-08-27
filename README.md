@@ -1,6 +1,7 @@
 I'm Daniel, a Computer Science student at the University of Waterloo and Software Engineer Intern at PointClickCare.
 
 ### Previous Internships 🚀
+* **Software Engineer Intern @ Shopify**
 * **Software Engineer Intern @ PointClickCare**
 * **Software Developer Intern @ TTC**
 * **Systems Officer @ Attorney General**
