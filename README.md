@@ -1,6 +1,7 @@
-I'm Daniel, a Computer Science student at the University of Waterloo and Software Engineer Intern at Shopify.
+I'm Daniel, a Computer Science student at the University of Waterloo and Software Engineer Intern at Microsoft.
 
 ### Previous Internships 🚀
+* **Software Engineer Intern @ Microsoft**
 * **Software Engineer Intern @ Shopify**
 * **Software Engineer Intern @ PointClickCare**
 * **Software Developer Intern @ TTC**
